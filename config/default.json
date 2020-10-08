@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://muhtashim_dev:muhtashimAli123@connection.vloba.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "topSecretPlus",
+  "githubClientId": "bf9aac9dbd0a77a41d5d",
+  "githubClientSecret": "4056e58b11662265811064d15ad958bc31a63bed"
+}
